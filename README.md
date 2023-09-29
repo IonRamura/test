@@ -2,8 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website contents
 
-Niste text
+Something
 
-Mai mult text
